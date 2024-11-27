@@ -1,4 +1,1 @@
- - Hello! My name is Andrei and I am a first year student
- - I’m interested in tech development and business
- - I’m currently studying Computer Science at Babeș Bolyai University
- - You can reach me by mail: andreipuscas2004@gmail.com
+Hi there! I'm a second-year Computer Science student at Babes-Bolyai University, studying in German. My interests lie at the intersection of AI and cloud technologies, where I'm focused on both the technical and business implications of these fields. I'm passionate about contributing to open-source projects and expanding my knowledge through hands-on experience. Let's create something amazing together!
